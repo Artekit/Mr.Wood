@@ -1,0 +1,17 @@
+Artekit_MrWood KEYWORD1
+
+init	KEYWORD2
+enable	KEYWORD2
+disable	KEYWORD2
+clear	KEYWORD2
+dimmer	KEYWORD2
+printChar	KEYWORD2
+printChars	KEYWORD2
+printFormatted	KEYWORD2
+printInt	KEYWORD2
+printFloat	KEYWORD2
+printByte	KEYWORD2
+printBytes	KEYWORD2
+
+ALIGN_LEFT	LITERAL1
+ALIGN_RIGHT	LITERAL1
